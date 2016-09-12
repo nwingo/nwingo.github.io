@@ -1,11 +1,22 @@
-#wrapper {
-    width: 800px;
-    margin: 0 auto;
-}
+style.css
 
 body {
     background-color: #ECEAE0;
-    
 }
-    
 
+section {
+    margin-bottom: 30px;
+}
+
+.header {
+    text-align: center;
+}
+
+#wrapper {
+    width: 70%;
+    margin: 0 auto;
+}
+
+#contact {
+    font-style: italic;
+}
