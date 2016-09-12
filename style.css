@@ -1,6 +1,12 @@
 body {
     background-color: #ECEAE0;
     
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
     
 p { margin-bottom: 0; }
 ul { margin-top: 0; }
