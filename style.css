@@ -1,8 +1,6 @@
 p {
 color :red:
 }
-
-<style>
 h1 { 
     display: block;
     font-size: 0.9em;
@@ -12,5 +10,4 @@ h1 {
     margin-right: 0;
     font-weight: bold;
 }
-</style>
-<h1 style="text-align:center"> Headline </h1>
+
