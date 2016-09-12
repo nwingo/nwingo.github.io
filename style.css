@@ -1,10 +1,11 @@
+#wrapper {
+    width: 500px;
+    margin: 0 auto;
+}
+
 body {
     background-color: #ECEAE0;
     
 }
     
-p { margin-bottom: 0; }
-ul { margin-top: 0; }
-
-}
 
