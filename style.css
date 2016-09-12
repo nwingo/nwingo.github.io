@@ -1,16 +1,5 @@
-div
-{
-    border-radius: 5px;
-    }
-#header
-{
-    position: fixed;
-    z-index: 1;
-    height:40px;
-    width: 98%;
-    background-color: #668284;
-    margin-bottom: 10px
-    }
+body {
+    background-color: lightblue;
     
 p { margin-bottom: 0; }
 ul { margin-top: 0; }
