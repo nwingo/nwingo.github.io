@@ -9,13 +9,70 @@ section {
 
 .header {
     text-align: center;
+    padding-bottom: -10px;
 }
 
 .descriptors {
   font-weight: bold;
-  font-size: H3;
+  font-size: 18px;
+  text-decoration: underline;
 
 }
+
+ .uber {
+     border: 2px  solid  black;
+     border-radius: 10px;
+     background-color: #fff6c9;
+     padding-left: 10px;
+
+ }
+
+ .RHD {
+     border: 2px  solid  black;
+     border-radius: 10px;
+     background-color: #fff6c9;
+     padding-left: 10px;
+}
+
+.FYRE {
+    border: 2px  solid  black;
+    border-radius: 10px;
+    background-color: #fff6c9;
+    padding-left: 10px;
+}
+
+
+.army {
+    border: 2px  solid  black;
+    border-radius: 10px;
+    background-color: #fff6c9;
+    padding-left: 10px;
+}
+
+.marketing {
+    border: 2px  solid  black;
+    border-radius: 10px;
+    background-color: #fff6c9;
+    padding-left: 10px;
+}
+
+.education {
+    border: 2px  solid  black;
+    border-radius: 10px;
+    background-color: #fff6c9;
+    padding-left: 10px;
+}
+
+
+ hr {
+     display: block;
+     height: 1px;
+     border: 0;
+     border-top: 2px solid #000000;
+     margin: 1em 0;
+     padding: 1;
+ }
+
 
 #wrapper {
     width: 70%;
